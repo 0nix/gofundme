@@ -26,7 +26,7 @@ This Library is not associated to GoFundMe, Inc. in any way, shape, or form.
 ## Test
 
 
-    `npm test
+    npm test
 
 ## Contributing
 
@@ -34,7 +34,7 @@ Lint and test your code. This library is a work in progress. If I or other contr
 
 ## Author
 
-This has been an [AsobuLab](twitch.tv/asobulab) Code for Good Project by [0nix](twitter.com/asobulab)
+This has been an [AsobuLab](https://twitch.tv/asobulab) Code for Good Project by [0nix](https://twitter.com/asobulab)
 
 ## Special Thanks
 

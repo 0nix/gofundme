@@ -1,6 +1,6 @@
 {
   "name": "gofundme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A library to scrape information on GoFundMe campaigns",
   "main": "index.js",
   "scripts": {

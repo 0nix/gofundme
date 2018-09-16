@@ -1,0 +1,30 @@
+{
+  "name": "gofundme",
+  "version": "0.1.0",
+  "description": "A library to scrape information on GoFundMe campaigns",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0nix/gofundme.git"
+  },
+  "keywords": [
+    "gofundme"
+  ],
+  "author": "Onix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0nix/gofundme/issues"
+  },
+  "homepage": "https://github.com/0nix/gofundme#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "phantom": "^6.0.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
